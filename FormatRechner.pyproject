@@ -1,0 +1,3 @@
+{
+    "files": ["base_singleformat.ui","formatrechner.py","base_std_widget.ui","ui/form.ui"]
+}
